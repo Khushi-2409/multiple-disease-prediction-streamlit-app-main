@@ -1,4 +1,3 @@
-Multiple Disease Prediction System project
 # 🧠 Multiple Disease Prediction System
 
 A web-based application that predicts the likelihood of **Diabetes**, **Heart Disease**, and **Parkinson's Disease** using Machine Learning models, built with **Python** and **Streamlit**.
