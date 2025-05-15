@@ -35,5 +35,5 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Deployment
-Deployment Link: 
+Deployment Link: https://multiple-disease-prediction-streamlit.onrender.com
 
