@@ -25,31 +25,14 @@ This project aims to assist in early detection of chronic diseases using trained
 
 ---
 
-## 📁 Project Structure
-multiple-disease-prediction/
-├── .streamlit/
-        ├────── config.toml
-├──saved_models/
-        ├────── diabetes_model.sav
-        ├────── heart_disease_model.sav
-        ├────── parkinsons_model.sav
-├── dataset/
-        ├────── diabetes.csv
-        ├────── heart.csv
-        ├────── parkinsons.csv
-├── colab_files_to_train_models/
-        ├────── Multiple disease prediction system - diabetes.ipynb
-        ├────── Multiple disease prediction system - heart.ipynb
-        ├────── Multiple disease prediction system - Parkisnsons.ipynb
-├── app.py
-├── requirements.txt
-└── README.md
-
 ## Install Dependencies
 pip install -r requirements.txt
 
+---
 ## Run the App
 streamlit run app.py
+
+---
 
 ## 🌐 Live Deployment
 Deployment Link: 
